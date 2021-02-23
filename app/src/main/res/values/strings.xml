@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Kashless</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="enter_username">Enter username</string>
+    <string name="passcode">Password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="enter_phone_number">Phone number</string>
+    <string name="create">Create</string>
+    <string name="selected_item_info">You can pay for this item just by filling the information below and then click the pay button</string>
+    <string name="item_list">Items</string>
+    <string name="covered_list">Covered</string>
+    <string name="information">You can pay for the item selected by filling in the information below and click the button below</string>
+    <string name="pending_items">Pending</string>
+    <string name="amount_available">Amount</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="confirming_pay">confirm</string>
+    <string name="cancel">cancel</string>
+    <string name="confirm_contribution">Confirm the contribution towards the above selected item</string>
+</resources>

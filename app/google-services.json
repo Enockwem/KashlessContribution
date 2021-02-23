@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "724911804729",
+    "project_id": "kashless-43b06",
+    "storage_bucket": "kashless-43b06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724911804729:android:3b0cbc10a5c861221818e8",
+        "android_client_info": {
+          "package_name": "com.example.kashless"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724911804729-ni7ksr0rs3psio1p5dgef9l9rrq6ca2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm4-U8ePsi0tEXMMC7iWYmIPGWKgeBfMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724911804729-ni7ksr0rs3psio1p5dgef9l9rrq6ca2h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
